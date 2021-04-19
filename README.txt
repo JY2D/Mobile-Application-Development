@@ -1,5 +1,1 @@
-The asssets folder was removed as it was too big for ilearn.
-This is the link for the assest on a google drive.
-https://drive.google.com/drive/folders/1EHvSXOKb5MboQ92haT3Raa8bM8_Hb2oV?usp=sharing
-
-Please download the assests before you run the app
+This is Assignment 1 of comp3130 Mobile application devlopment. The aim of this task was to develop a travel app with working functionality such as storing user data while the app is running and allow users to navigate through the app to find even more information, Users should also be able to upload custom data which can be stored in the app. Premade account: email: gojo@gmail.com password: gojo12
